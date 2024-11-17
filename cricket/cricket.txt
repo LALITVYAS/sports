@@ -1,0 +1,7 @@
+bat 
+ball
+gloves
+stamps
+ground
+pads
+

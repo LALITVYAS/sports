@@ -1,0 +1,4 @@
+ball
+nets
+pads
+
