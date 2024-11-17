@@ -1,4 +1,0 @@
-ball
-nets
-pads
-
